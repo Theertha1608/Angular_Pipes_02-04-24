@@ -1,0 +1,29 @@
+.heading{
+    text-align: center;
+    justify-content: center;
+}
+
+.table-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .student-table {
+    width: 50%;
+    border-collapse: collapse;
+  }
+  
+  .student-table th,
+  .student-table td {
+    padding: 8px;
+    border: 1px solid #000000;
+  }
+  
+  .student-table th {
+    background-color: #033d47;
+    color: white;
+  }
+  
+  .student-table td{
+    background-color: rgb(81, 162, 165);
+  }
